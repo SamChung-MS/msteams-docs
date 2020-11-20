@@ -119,10 +119,22 @@
   items:
   - name: Overview
     href: concepts/design/design-teams-app-overview.md
-  - name: Design fundamentals
+  - name: Fundamentals
     href: concepts/design/design-teams-app-fundamentals.md
   - name: Basic UI components
     href: concepts/design/design-teams-app-basic-ui-components.md
+  - name: Adaptive Cards
+    href: task-modules-and-cards/cards/design-effective-cards.md
+  - name: Bots
+    href: bots/design/bots.md
+  - name: Meetings
+    items:
+    - name: In-meeting dialog
+      href: apps-in-teams-meetings/design/designing-in-meeting-dialog.md
+    - name: In-meeting tab
+      href: apps-in-teams-meetings/design/designing-in-meeting-tab.md
+  - name: Messaging extensions
+    href: messaging-extensions/design/messaging-extension-design.
   - name: Personal apps
     href: concepts/design/personal-apps.md
   - name: Tabs
@@ -131,23 +143,11 @@
       href: tabs/design/tabs.md
     - name: Mobile
       href: tabs/design/tabs-mobile.md
-  - name: Bots
-    href: bots/design/bots.md
-  - name: Messaging extensions
-    href: messaging-extensions/design/messaging-extension-design.md
-  - name: Apps in meetings
-    items:
-    - name: In-meeting dialog
-      href: apps-in-teams-meetings/design/designing-in-meeting-dialog.md
-    - name: In-meeting tab
-      href: apps-in-teams-meetings/design/designing-in-meeting-tab.md
-  - name: Adaptive Cards
-    href: task-modules-and-cards/cards/design-effective-cards.md
   - name: Task modules
     href: task-modules-and-cards/task-modules/design-teams-task-modules.md
   - name: UI templates
     href: concepts/design/design-teams-app-ui-templates.md
-  - name: Design toolkits, samples, and resources
+  - name: Resources
     href: concepts/design/teams-design-resources.md
   - name: Using the Teams UI Library
     href: concepts/design/using-teams-ui-library.md
